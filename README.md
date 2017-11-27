@@ -11,8 +11,14 @@ To install the package, use the following code.
 
 ``` r
 devtools::install_github("yuanjisun/marine")
-#> Skipping install of 'marine' from a github remote, the SHA1 (5748bba8) has not changed since last install.
-#>   Use `force = TRUE` to force installation
+#> Downloading GitHub repo yuanjisun/marine@master
+#> from URL https://api.github.com/repos/yuanjisun/marine/zipball/master
+#> Installing marine
+#> "D:/R/R-3.4.2/bin/x64/R" --no-site-file --no-environ --no-save  \
+#>   --no-restore --quiet CMD INSTALL  \
+#>   "C:/Users/yuanj/AppData/Local/Temp/RtmpY9WXNH/devtools2ca40506d137b/yuanjisun-marine-163d6a2"  \
+#>   --library="D:/R/R-3.4.2/library" --install-tests
+#> 
 ```
 
 To load the library, use the following code.
