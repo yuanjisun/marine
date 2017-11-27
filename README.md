@@ -9,6 +9,12 @@ Installation
 
 To install the package, use the following code.
 
+``` r
+devtools::install_github("yuanjisun/marine")
+#> Skipping install of 'marine' from a github remote, the SHA1 (5748bba8) has not changed since last install.
+#>   Use `force = TRUE` to force installation
+```
+
 To load the library, use the following code.
 
 ``` r
@@ -95,7 +101,7 @@ result[2]
 #> [[1]]
 ```
 
-![](README-unnamed-chunk-5-1.png)
+![](README-unnamed-chunk-6-1.png)
 
 ``` r
 

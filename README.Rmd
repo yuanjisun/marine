@@ -20,7 +20,9 @@ The goal of `marine` is to help marine science researchers analyze CTD data quic
 
 # Installation
 To install the package, use the following code.
-
+```{r}
+devtools::install_github("yuanjisun/marine")
+```
 
 To load the library, use the following code.
 ```{r}
