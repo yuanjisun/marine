@@ -10,7 +10,7 @@
 #' Since .cnv file is quite unique and the data structure is extremely complex, this function is based on \code{read.oce()} in the package \code{oce}.
 #'
 #' @examples
-#' raw_data("sample_CTD.cnv")
+#' raw_data(system.file("extdata", "ctd.cnv", package="oce"))
 #'
 #' @export
 
