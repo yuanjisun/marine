@@ -16,7 +16,7 @@ devtools::install_github("yuanjisun/marine")
 #> Installing marine
 #> "D:/R/R-3.4.2/bin/x64/R" --no-site-file --no-environ --no-save  \
 #>   --no-restore --quiet CMD INSTALL  \
-#>   "C:/Users/yuanj/AppData/Local/Temp/RtmpY9WXNH/devtools2ca40506d137b/yuanjisun-marine-163d6a2"  \
+#>   "C:/Users/yuanj/AppData/Local/Temp/RtmpEVEirs/devtools4568813879e4/yuanjisun-marine-6a06c58"  \
 #>   --library="D:/R/R-3.4.2/library" --install-tests
 #> 
 ```
