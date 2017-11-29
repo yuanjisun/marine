@@ -18,6 +18,8 @@ knitr::opts_chunk$set(
 
 The goal of `marine` is to help marine science researchers analyze CTD data quickly without going through the whole complex data set.
 
+I provide two sample .cn file for the general public to test the package. The file names are `sample_CTD.cnv` and `sample_CTD_2.cnv`, which are in the main directory of this package.
+
 # Installation
 To install the package, use the following code.
 ```{r}

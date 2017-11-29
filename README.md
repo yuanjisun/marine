@@ -4,6 +4,8 @@ marine
 
 The goal of `marine` is to help marine science researchers analyze CTD data quickly without going through the whole complex data set.
 
+I provide two sample .cn file for the general public to test the package. The file names are `sample_CTD.cnv` and `sample_CTD_2.cnv`, which are in the main directory of this package.
+
 Installation
 ============
 
@@ -11,14 +13,8 @@ To install the package, use the following code.
 
 ``` r
 devtools::install_github("yuanjisun/marine")
-#> Downloading GitHub repo yuanjisun/marine@master
-#> from URL https://api.github.com/repos/yuanjisun/marine/zipball/master
-#> Installing marine
-#> "D:/R/R-3.4.2/bin/x64/R" --no-site-file --no-environ --no-save  \
-#>   --no-restore --quiet CMD INSTALL  \
-#>   "C:/Users/yuanj/AppData/Local/Temp/RtmpCiom5g/devtools490f43b28449a/yuanjisun-marine-52d4f73"  \
-#>   --library="D:/R/R-3.4.2/library" --install-tests
-#> 
+#> Skipping install of 'marine' from a github remote, the SHA1 (8c27cc28) has not changed since last install.
+#>   Use `force = TRUE` to force installation
 ```
 
 To load the library, use the following code.
