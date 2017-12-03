@@ -12,7 +12,8 @@ RoxygenNote: 6.0.1
 Suggests: testthat,
     knitr,
     rmarkdown
-Imports: ggplot2
+Imports: ggplot2,
+    oce,
+    testthat
 VignetteBuilder: knitr
 Depends: R(>= 2.10.0)
-
